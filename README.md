@@ -27,7 +27,6 @@ npm run build
 ```
 将打包好后的dist静态资源文件夹上传到服务器
 
-```
 ## 项目效果图
 ![204437](https://github.com/user-attachments/assets/0a9fb810-2afa-4fc5-81f0-89f9d246f456)
 
