@@ -39,6 +39,11 @@ npm run build
 ├── public/         # 静态资源
 └── package.json    # 依赖配置
 ```
+## 项目效果图
+![204437](https://github.com/user-attachments/assets/0a9fb810-2afa-4fc5-81f0-89f9d246f456)
+
+![4454](https://github.com/user-attachments/assets/a9cc4b2f-97af-4a10-bee2-88001b386422)
+
 
 ## 贡献指南
 欢迎通过issue和pull request参与贡献，请遵循现有代码规范。
